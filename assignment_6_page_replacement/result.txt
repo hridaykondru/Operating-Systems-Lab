@@ -1,0 +1,28 @@
+
+Getting page faults for 1 number of frames allocated to the process
+With Reference String:
+0 1 2 3 0 1 4 0 1 2 3 4 
+Page faults using FIFO algorithm: 12
+Page faults using LRU algorithm: 12
+Page faults using Optimal algorithm: 12
+
+Getting page faults for 2 number of frames allocated to the process
+With Reference String:
+0 1 2 3 0 1 4 0 1 2 3 4 
+Page faults using FIFO algorithm: 12
+Page faults using LRU algorithm: 12
+Page faults using Optimal algorithm: 9
+
+Getting page faults for 3 number of frames allocated to the process
+With Reference String:
+0 1 2 3 0 1 4 0 1 2 3 4 
+Page faults using FIFO algorithm: 9
+Page faults using LRU algorithm: 10
+Page faults using Optimal algorithm: 7
+
+Getting page faults for 4 number of frames allocated to the process
+With Reference String:
+0 1 2 3 0 1 4 0 1 2 3 4 
+Page faults using FIFO algorithm: 10
+Page faults using LRU algorithm: 8
+Page faults using Optimal algorithm: 6
