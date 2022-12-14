@@ -1,0 +1,18 @@
+Scheduler used: RR
+Note 1: Total waiting time includes time spent on I/O
+Note 2: All times are in seconds
+P4 79728 Response time: 0
+P4 79728 Total waiting time: 221
+P4 79728 Turn-around time: 230
+P3 79723 Response time: 0
+P3 79723 Total waiting time: 228
+P3 79723 Turn-around time: 238
+P2 79720 Response time: 0
+P2 79720 Total waiting time: 24
+P2 79720 Turn-around time: 45
+P1 79717 Response time: 0
+P1 79717 Total waiting time: 31
+P1 79717 Turn-around time: 51
+Average Response time: 0
+Average Total waiting time: 126
+Average Turn-around time: 141

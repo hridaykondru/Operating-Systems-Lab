@@ -1,0 +1,18 @@
+Scheduler used: PRR
+Note 1: Total waiting time includes time spent on I/O
+Note 2: All times are in seconds
+P4 79945 Response time: 0
+P4 79945 Total waiting time: 221
+P4 79945 Turn-around time: 231
+P3 79942 Response time: 0
+P3 79942 Total waiting time: 235
+P3 79942 Turn-around time: 245
+P2 79939 Response time: 0
+P2 79939 Total waiting time: 24
+P2 79939 Turn-around time: 45
+P1 79936 Response time: 0
+P1 79936 Total waiting time: 31
+P1 79936 Turn-around time: 51
+Average Response time: 0
+Average Total waiting time: 128
+Average Turn-around time: 143
